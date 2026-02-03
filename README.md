@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Francio Xavier
 
-### Skills
+### What I use in my projects
 
 <div align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
