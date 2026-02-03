@@ -20,3 +20,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind,jquery&theme=dark" />
   </a>
 </div>
+
+
+![snake gif](https://github.com/FrancioXavier/FrancioXavier/blob/output/github-contribution-grid-snake.svg)
