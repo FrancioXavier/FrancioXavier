@@ -1,5 +1,12 @@
 # Hi there 👋, I'm Francio Xavier
 
+I’m a Full-Stack Engineer experienced in PHP, Node.js, and Golang. I enjoy architecting systems and implementing scalable projects.
+
+- 🛠️ Currently working with PHP and Golang.
+- 🧠 Exploring AI agent architectures and deepening my expertise in Node.js.
+- 🎨 My go-to framework for front-end development is Next.js.
+- ☁️ Working with AWS and Cloudflare and using GCP in my personal projects
+
 ### What I use in my projects
 
 <div align="left">
@@ -25,10 +32,8 @@
 </div>
 <br>
 <div align="left">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
 </div>
 
 ### Social
